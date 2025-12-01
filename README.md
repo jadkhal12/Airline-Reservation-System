@@ -1,10 +1,13 @@
 Airline Reservation System
 A comprehensive airline reservation and boarding management system built in C++ that streamlines operations from flight booking to passenger boarding.
+
 📚 Project Information
 Course: Data Structures (CSC 313)
 Domain: Travel & Transportation
+
 📋 Overview
 This system manages the complete airline passenger journey, implementing efficient data structures and algorithms to ensure smooth operations and an organized passenger experience. The application handles flight bookings, passenger check-in, and boarding processes in a structured and efficient manner.
+
 ✨ Features
 1. Flight Booking Management
 
